@@ -1,0 +1,240 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-01T00:00:00Z",
+    "puzzles": [
+        {
+            "date": "2026-01-01",
+            "id": "puzzle-001",
+            "startWord": "fire",
+            "solution": [
+                "fire",
+                "hazard",
+                "lights",
+                "switch",
+                "board",
+                "game"
+            ],
+            "difficulty": "medium",
+            "theme": "Home Safety 🏠",
+            "hint": "Think about things that could go wrong in a house"
+        },
+        {
+            "date": "2026-01-02",
+            "id": "puzzle-002",
+            "startWord": "ice",
+            "solution": [
+                "ice",
+                "cream",
+                "cheese",
+                "cake",
+                "walk",
+                "out"
+            ],
+            "difficulty": "easy",
+            "theme": "Food & Movement 🍦",
+            "hint": "Starts sweet, ends with an exit"
+        },
+        {
+            "date": "2026-01-03",
+            "id": "puzzle-003",
+            "startWord": "road",
+            "solution": [
+                "road",
+                "trip",
+                "wire",
+                "less",
+                "talk",
+                "show"
+            ],
+            "difficulty": "hard",
+            "theme": "Travel & Media 🚗",
+            "hint": "From the highway to the TV"
+        },
+        {
+            "date": "2026-01-04",
+            "id": "puzzle-004",
+            "startWord": "sun",
+            "solution": [
+                "sun",
+                "rise",
+                "up",
+                "date",
+                "night",
+                "fall"
+            ],
+            "difficulty": "medium",
+            "theme": "Day Cycle 🌅",
+            "hint": "Follow the sun through the day"
+        },
+        {
+            "date": "2026-01-05",
+            "id": "puzzle-005",
+            "startWord": "rain",
+            "solution": [
+                "rain",
+                "bow",
+                "tie",
+                "break",
+                "down",
+                "town"
+            ],
+            "difficulty": "easy",
+            "theme": "Weather to City 🌈",
+            "hint": "From the sky to the streets"
+        },
+        {
+            "date": "2026-01-06",
+            "id": "puzzle-006",
+            "startWord": "book",
+            "solution": [
+                "book",
+                "mark",
+                "down",
+                "load",
+                "star",
+                "fish"
+            ],
+            "difficulty": "medium",
+            "theme": "Reading to Sea 📚",
+            "hint": "From reading to the ocean"
+        },
+        {
+            "date": "2026-01-07",
+            "id": "puzzle-007",
+            "startWord": "head",
+            "solution": [
+                "head",
+                "line",
+                "dance",
+                "floor",
+                "plan",
+                "ahead"
+            ],
+            "difficulty": "hard",
+            "theme": "Mind to Future 🧠",
+            "hint": "Starts with your head, ends planning ahead"
+        }
+    ],
+    "gameSettings": {
+        "maxLives": 3,
+        "maxReveals": 3,
+        "timerEnabled": true,
+        "showDailyHint": false
+    },
+    "ui": {
+        "title": "ChainLink",
+        "tagline": "Link the words. Complete the chain.",
+        "logoEmoji": "🔗",
+        "theme": "dark",
+        "accentColor": "#8b5cf6"
+    },
+    "messages": {
+        "winTitles": [
+            "Brilliant!",
+            "Amazing!",
+            "Perfect!",
+            "Genius!"
+        ],
+        "loseTitle": "Game Over",
+        "sharePrefix": "ChainLink",
+        "encouragement": [
+            "You've got this!",
+            "Keep going!",
+            "Almost there!"
+        ]
+    },
+    "features": {
+        "howToPlayEnabled": true,
+        "shareEnabled": true,
+        "nativeShareEnabled": true,
+        "statsEnabled": true,
+        "timerDisplayEnabled": true,
+        "streakDisplayEnabled": true,
+        "dailyHintEnabled": false,
+        "soundsEnabled": false,
+        "hapticFeedbackEnabled": false
+    },
+    "share": {
+        "gameUrl": "https://waterfalllchain.netlify.app/",
+        "includeTime": true,
+        "includeLink": true,
+        "hashtags": [
+            "ChainLink",
+            "WordGame"
+        ]
+    },
+    "maintenance": {
+        "enabled": false,
+        "message": "We're updating puzzles. Back soon!",
+        "allowPlay": false
+    },
+    "announcements": [],
+    "phraseOverrides": {
+        "fire": [
+            "hazard",
+            "alarm",
+            "drill",
+            "escape",
+            "place",
+            "works",
+            "fighter",
+            "wood"
+        ],
+        "ice": [
+            "cream",
+            "cold",
+            "berg",
+            "breaker",
+            "age",
+            "box",
+            "cap"
+        ],
+        "road": [
+            "trip",
+            "side",
+            "block",
+            "map",
+            "work",
+            "house"
+        ],
+        "sun": [
+            "rise",
+            "set",
+            "shine",
+            "light",
+            "burn",
+            "flower",
+            "glasses"
+        ],
+        "rain": [
+            "bow",
+            "drop",
+            "fall",
+            "storm",
+            "coat",
+            "forest"
+        ],
+        "book": [
+            "mark",
+            "case",
+            "store",
+            "shelf",
+            "worm",
+            "end"
+        ],
+        "head": [
+            "line",
+            "ache",
+            "light",
+            "phones",
+            "set",
+            "strong",
+            "band"
+        ]
+    },
+    "fallback": {
+        "useFallbackOnError": true,
+        "fallbackPuzzleIndex": 0,
+        "cacheExpirationHours": 24
+    }
+}
