@@ -10,9 +10,9 @@
                 "fire",
                 "hazard",
                 "lights",
-                "switch",
-                "board",
-                "game"
+                "out",
+                "box",
+                "cutter"
             ],
             "difficulty": "medium",
             "theme": "Home Safety 🏠",
