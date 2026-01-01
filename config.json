@@ -116,8 +116,8 @@
         }
     ],
     "gameSettings": {
-        "maxLives": 3,
-        "maxReveals": 3,
+        "maxLives": 5,
+        "maxReveals": 5,
         "timerEnabled": true,
         "showDailyHint": false
     },
