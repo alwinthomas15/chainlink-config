@@ -21,22 +21,6 @@
         {
             "date": "2026-01-02",
             "id": "puzzle-002",
-            "startWord": "ice",
-            "solution": [
-                "ice",
-                "cream",
-                "cheese",
-                "cake",
-                "walk",
-                "out"
-            ],
-            "difficulty": "easy",
-            "theme": "Food & Movement 🍦",
-            "hint": "Starts sweet, ends with an exit"
-        },
-        {
-            "date": "2026-01-03",
-            "id": "puzzle-003",
             "startWord": "road",
             "solution": [
                 "road",
@@ -49,6 +33,22 @@
             "difficulty": "hard",
             "theme": "Travel & Media 🚗",
             "hint": "From the highway to the TV"
+        },
+        {
+            "date": "2026-01-03",
+            "id": "puzzle-003",
+            "startWord": "ice",
+            "solution": [
+                "ice",
+                "cream",
+                "cheese",
+                "cake",
+                "walk",
+                "out"
+            ],
+            "difficulty": "easy",
+            "theme": "Food & Movement 🍦",
+            "hint": "Starts sweet, ends with an exit"
         },
         {
             "date": "2026-01-04",
